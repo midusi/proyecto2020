@@ -1,0 +1,5 @@
+todo.txt
+__pycache__
+__pycache__/*
+*.pyc
+image.jpg
